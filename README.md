@@ -4,13 +4,13 @@ https://avatars.githubusercontent.com/u/217747832?v=4
 
 ## About Me 🚀
 
-I'm a passionate web developer with experience in React, Nextjs, node, and python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate web developer with experience in React, NextJS, Node, and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Frontend Developement at ALX.
+- 🌱 Currently learning: Frontend Development at ALX.
 - 🔭 Working on: Portfolio website
-- 🌍 Languages: Javascript, C, Python and Java.
+- 🌍 Languages: JavaScript, C, Python, and Java.
 - 📫 How to reach me: hellotolannystudio@gmail.com
-- ⚡ Fun fact: Tech enthusiast, easy going and pleasant to be with.
+- ⚡ Fun fact: Tech enthusiast, easy-going, and pleasant to be with.
 
 ## My Skills 🧠
 
