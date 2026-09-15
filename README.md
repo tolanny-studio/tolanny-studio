@@ -9,7 +9,7 @@ I'm a passionate web developer with experience in React, NextJS, Node, and Pytho
 - 🌱 Currently: Preparing for learn2earn piscine.
 - 🎓 Graduate: Software Engineering Programme in Front-End Web Development
 - 🔭 Working on: Portfolio website
-- 🌍 Languages: JavaScript, C, Python, and Java.
+- 🌍 Languages: JavaScript and Python.
 - 📫 How to reach me: hellotolannystudio@gmail.com
 - ⚡ Fun fact: Tech enthusiast, easy-going, and pleasant to be with.
 
@@ -22,5 +22,3 @@ I'm a passionate web developer with experience in React, NextJS, Node, and Pytho
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- [LinkedIn] https://linkedin.com/in/taoheed-tolani-162311372/
-- [Twitter] https://x.com/tolanny_studio
