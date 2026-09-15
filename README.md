@@ -6,9 +6,9 @@ https://avatars.githubusercontent.com/u/217747832?v=4
 
 I'm a passionate web developer with experience in React, NextJS, Node, and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently: Preparing for learn2earn piscine.
-- 🎓 Graduate: Software Engineering Programme in Front-End Web Development
-- 🔭 Working on: Portfolio website
+- 🌱 Currently: Learning generative AI.
+- 🎓 Graduate: ALX Software Engineering Programme in Front-End Web Development
+- 🔭 Working on: Generative AI
 - 🌍 Languages: JavaScript and Python.
 - 📫 How to reach me: hellotolannystudio@gmail.com
 - ⚡ Fun fact: Tech enthusiast, easy-going, and pleasant to be with.
